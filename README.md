@@ -1,7 +1,7 @@
 # 🐍 SnakeGame 🐍
 A Java mini-game made with swing library.
 
-### Control Keys:
+### Instructions:
 - Choose a speed and start playing!
 - Press the arrow keys to move the snake.
 - Press the ESC key to pause gameplay.
